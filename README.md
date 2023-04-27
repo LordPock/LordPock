@@ -13,7 +13,7 @@ I am proactive, curious, resourceful, decisive and a great contribution to any w
 
 The experience of the Final Project of the Henry's bootcamp, with the challenge of teamwork, the use of Git, applying agile methodologies such as SCRUM, communication, the interdependence between the work of each member, and the application of technologies that we were unaware of at the beginning, make it an obstacle course that we managed to overcome with flying colors.
 
-Here I am, from Henry to the world, you can send me an email at cditoro@gmail.com, and I gladly will answer every inquiry and interest on my profile.
+Here I am, from <a href= "https://www.soyhenry.com/" target="_blank">Henry</a> to the world, you can send me an email at cditoro@gmail.com or send a message on <a href="https://www.linkedin.com/in/claudio-di-toro/" target="_blank">Linkedin </a> and I gladly will answer every inquiry and interest on my profile.
 
 <br />
 <br />
@@ -21,15 +21,9 @@ Here I am, from Henry to the world, you can send me an email at cditoro@gmail.co
 - 🌱 I’m currently learning TypeScript 😅
 - 👯 I’m looking to lean more, more, and more. 
 - ⚡ Fun fact: I love to sleep, but cant do it if have work to finish.
+
 <br />
 <br />
-
-### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/claudio-di-toro/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/claudio-di-toro/#gh-dark-mode-only)
-
-
 
 ### Languages and Tools:
 
@@ -42,10 +36,13 @@ Here I am, from Henry to the world, you can send me an email at cditoro@gmail.co
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-
-
 <br />
 <br />
+
+### Connect with me:
+
+[![website](./img/logo-linkedin-64.png)](https://www.linkedin.com/in/claudio-di-toro/)
+
 
   <img align="left" alt="LordPock's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lordpock&show_icons=true&hide_border=false&title_color=0c1a25&icon_color=FFE400&bg_color=99acbb&text_color=ffffff&border_color=0c1a25" />
 
