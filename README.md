@@ -13,10 +13,10 @@ I am proactive, curious, resourceful, decisive and a great contribution to any w
 
 The experience of the Final Project of the Henry's bootcamp, with the challenge of teamwork, the use of Git, applying agile methodologies such as SCRUM, communication, the interdependence between the work of each member, and the application of technologies that we were unaware of at the beginning, make it an obstacle course that we managed to overcome with flying colors.
 
-Here I am, from <a href= "https://www.soyhenry.com/" target="_blank">Henry</a> to the world, you can send me an email at cditoro@gmail.com or send a message on <a href="https://www.linkedin.com/in/claudio-di-toro/" target="_blank">Linkedin </a> and I gladly will answer every inquiry and interest on my profile.
+Here I am, from <a href= "https://www.soyhenry.com/" target="_blank">Henry</a> to the world, you can send me an email at <img alt="GMail" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" style="padding-right:10px;" /> cditoro@gmail.com or send a message on <img alt="Linkedin" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" /> <a href="https://www.linkedin.com/in/claudio-di-toro/" target="_blank">Linkedin </a> and I gladly will answer every inquiry and interest on my profile.
 
 
-- 🌱 I’m currently learning TypeScript <img alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+- 🌱 I’m currently learning TypeScript <img alt="TypeScript" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
  😅
 - 👯 I’m looking to lean more, more, and more. 
 - ⚡ Fun fact: I love to sleep, but also love to stay late, that make me looks like a Panda.
