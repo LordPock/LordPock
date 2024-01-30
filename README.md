@@ -18,7 +18,7 @@ Here I am, from <a href= "https://www.soyhenry.com/" target="_blank">Henry</a> t
 
 - 🌱 I’m currently learning Python <img alt="Python" width="18px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
  😅
-- 👯 I’m looking to lean more, more, and more. 
+- 👯 I’m looking to learn more, more, and more. 
 - ⚡ Fun fact: I love to sleep, but also love to stay late, that make me looks like a Panda.
 
 
