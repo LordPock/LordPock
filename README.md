@@ -3,7 +3,7 @@
 
 ### I'm a Husband, Father, Friend and Developer
 
-After 19 years of working at the same job and with no chance of growth, I decided it was time for a change. I've always liked technology and programming has always been a distant dream.
+After 20 years of working at the same job and with no chance of growth, I decided it was time for a change. I've always liked technology and programming has always been a distant dream.
 
 Today I can say that I am a fully FullStack Developer, although I like the Back End more, with its logic and daily challenges.
 
